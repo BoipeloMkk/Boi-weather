@@ -1,6 +1,6 @@
 body {
-  background-color: rgb(227, 187, 187);
-  font-family: "Edu AU VIC WA NT Hand";
+  background-color: rgb(190, 152, 152);
+  font-family: "SUSE", sans-serif;
 }
 
 a {
@@ -22,7 +22,7 @@ header {
 }
 
 .search-form-input {
-  background-color: rgb(252, 240, 230);
+  background-color: rgb(252, 252, 252);
   border: none;
   border-radius: 46px;
   width: 80%;
@@ -35,7 +35,7 @@ header {
   padding: 18px;
   border: none;
   border-radius: 46px;
-  color: white;
+  color: rgba(39, 33, 66, 0.4);
   margin-left: 5px;
   font-size: 16px;
 }
@@ -63,7 +63,7 @@ main {
 }
 
 .weather-app-details strong {
-  color: rgb(184, 55, 55);
+  color: rgb(145, 80, 80);
 }
 
 .weather-app-temperature-container {
@@ -108,7 +108,7 @@ main {
 
 .weather-forecast-temperatures {
   text-align: center;
-  color: rgb(184, 55, 55);
+  color: rgb(145, 80, 80);
 }
 
 .weather-forecast-temperatures strong {
